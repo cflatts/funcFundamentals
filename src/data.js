@@ -108,6 +108,66 @@ const DATA = [
     answer: function inputFuncTen (inputTen) {
 
     }
+  },
+  {
+    instruction: 'Write a function called varFuncOne that has an parameter called inputOne and set it to a variable called dataOne',
+    answer: function varFuncOne (inputOne) {
+      var dataOne = inputOne
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncTwo that has an parameter called inputTwo and set it to a variable called dataTwo',
+    answer: function varFuncTwo (inputTwo) {
+      var dataTwo = inputTwo
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncThree that has an parameter called inputThree and set it to a variable called dataThree',
+    answer: function varFuncThree (inputThree) {
+      var dataThree = inputThree
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncFour that has an parameter called inputFour and set it to a variable called dataFour',
+    answer: function varFuncFour (inputFour) {
+      var dataFour = inputFour
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncFive that has an parameter called inputFive and set it to a variable called dataFive',
+    answer: function varFuncFive (inputFive) {
+      var dataFive = inputFive
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncSix that has an parameter called inputSix and set it to a variable called dataSix',
+    answer: function varFuncSix (inputSix) {
+      var dataSix = inputSix
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncSeven that has an parameter called inputSeven and set it to a variable called dataSeven',
+    answer: function varFuncSeven (inputSeven) {
+      var dataSeven = inputSeven
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncEight that has an parameter called inputEight and set it to a variable called dataEight',
+    answer: function varFuncEight (inputEight) {
+      var dataEight = inputEight
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncNine that has an parameter called inputNine and set it to a variable called dataNine',
+    answer: function varFuncNine (inputNine) {
+      var dataNine = inputNine
+    }
+  },
+  {
+    instruction: 'Write a function called varFuncTen that has an parameter called inputTen and set it to a variable called dataTen',
+    answer: function varFuncTen (inputTen) {
+      var dataTen = inputTen
+    }
   }
 ]
 
