@@ -168,6 +168,66 @@ const DATA = [
     answer: function varFuncTen (inputTen) {
       var dataTen = inputTen
     }
+  },
+  {
+    instruction: 'Write a function called stringOne that creates an empty string called strOne',
+    answer: function stringOne () {
+      var strOne = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringTwo that creates an empty string called strTwo',
+    answer: function stringTwo () {
+      var strTwo = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringThree that creates an empty string called strThree',
+    answer: function stringThree () {
+      var strThree = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringFour that creates an empty string called strFour',
+    answer: function stringFour () {
+      var strFour = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringFive that creates an empty string called strFive',
+    answer: function stringFive () {
+      var strFive = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringSix that creates an empty string called strSix',
+    answer: function stringSix () {
+      var strSix = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringSeven that creates an empty string called strSeven',
+    answer: function stringSeven () {
+      var strSeven = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringEight that creates an empty string called strEight',
+    answer: function stringEight () {
+      var strEight = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringNine that creates an empty string called strNine',
+    answer: function stringNine () {
+      var strNine = ''
+    }
+  },
+  {
+    instruction: 'Write a function called stringTen that creates an empty string called strTen',
+    answer: function stringTen () {
+      var strTen = ''
+    }
   }
 ]
 
