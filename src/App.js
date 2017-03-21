@@ -14,10 +14,10 @@ class App extends Component {
 class InputBody extends App {
   render () {
     return (
-      <div className='input'>
+      <div className='testBody'>
         <p className='instructions'>This is where the instructions will go</p>
         <form>
-          <input placeholder='Type your answer here' />
+          <textarea type='text' placeholder='Type your answer here' />
           <button type='submit'>Check Answer</button>
         </form>
       </div>
